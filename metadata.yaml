@@ -1,0 +1,27 @@
+_repo: The-Heart-of-Rachael_4915
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Norris, Kathleen Thompson
+    birthdate: 1880
+    deathdate: 1966
+    gutenberg_agent_id: '1247'
+    url: http://www.gutenberg.org/2009/agents/1247
+    wikipedia: http://en.wikipedia.org/wiki/Kathleen_Norris
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4915'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Divorce -- Fiction'
+- !lcsh 'Married women -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Heart of Rachael
+url: http://www.gutenberg.org/ebooks/4915
